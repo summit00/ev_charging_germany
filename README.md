@@ -336,7 +336,7 @@ ORDER BY
 
 
 ## Dashboard
-![alt text](image.png)
+![alt text](dashboard/image.png)
 
 This dashboard provides static insights derived from SQL queries analyzing Germany's EV charging infrastructure. It includes key metrics such as the number of stations, connections, power levels, and operator rankings. Users can interactively filter charging levels to explore specific categories, offering a dynamic way to analyze charging speed distributions and trends. The visualizations are designed to support data-driven decisions for EV infrastructure planning and development.
 
